@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gloria! 👋</h1>
-<h3 align="center">🐶 Galician animal lover👩‍💻 Frontend Developer</h3>
+<h3 align="center">🐶 Galician animal lover <br>👩‍💻 Frontend Developer</h3>
 <h3 align="center"> 📩 Feel free to reach out!</h3>
 
 
